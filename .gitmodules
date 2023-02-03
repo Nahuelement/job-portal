@@ -1,0 +1,6 @@
+[submodule "job-portal-api"]
+	path = job-portal-api
+	url = https://github.com/Nahuelement/job-portal-api.git
+[submodule "job-portal-next"]
+	path = job-portal-next
+	url = https://github.com/Nahuelement/job-portal-next.git
